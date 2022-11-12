@@ -13,4 +13,4 @@
 - 🌱 I’m currently learning AWS and going to take the Solutions Architect Exam soon.
 - 👯 I’m looking to collaborate on Kaggle Competitions
 - 🤔 I’m looking for help with Job referrals
-- 📫 How to reach me: send me an email at datasc.yash@gmail.com or follow me on instagram [music_by_yash]([url](https://www.instagram.com/music_by_yash/?hl=en))
+- 📫 How to reach me: send me an email at datasc.yash@gmail.com or follow me on instagram [music_by_yash](https://www.instagram.com/music_by_yash/?hl=en)
