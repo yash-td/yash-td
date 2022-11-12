@@ -2,9 +2,12 @@
 
 ** I am Yash, a fresh Data Scientist with a strong background in programming with Python, solid skills in statistics, problem solving and working with various projects which include Data Mining, Machine Learning, Deep Learning, Audio Classification, Natural Language Processing and Computer Vision. Follow me or get in touch with me if you have an interesting project to discuss
 
+
+
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=yash-td&count_private=true&theme=tokyonight&showicons=true)]()
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=yash-td&langs_count=5&theme=tokyonight)]()
-Here are some ideas to get you started:
+
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning AWS and going to take the Solutions Architect Exam soon.
