@@ -3,7 +3,7 @@
 ### I am Yash, a fresh Data Scientist with a strong background in programming with Python, solid skills in statistics, problem solving and working with various projects which include Data Mining, Machine Learning, Deep Learning, Audio Classification, Natural Language Processing and Computer Vision. Follow me or get in touch with me if you have an interesting project to discuss
 
 Languages:
-
+<img src="{https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue }" />
 ![image]({https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue }) 
 ![image]({https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white}) 
 ![image]({https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white}) 
