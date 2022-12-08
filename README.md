@@ -39,7 +39,7 @@ Softwares and Platforms:
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=yash-td&count_private=true&theme=tokyonight&showicons=true)]()
 
 
-[![Hits](https://hitcounter.pythonanywhere.com/count/tag.svg?url = https://github.com/yash-td)]()
+[![Hits](https://hitcounter.pythonanywhere.com/count/tag.svg?url=https://github.com/yash-td)]()
 
 
 - 🌱 I’m currently learning AWS and going to take the Solutions Architect Exam soon.
