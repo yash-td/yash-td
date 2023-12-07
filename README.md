@@ -1,6 +1,6 @@
 # Hey there 👋
 
-### I am Yash, a fresh Data Scientist with a strong background in programming with Python, solid skills in statistics, problem solving and working with various projects which include Data Mining, Machine Learning, Deep Learning, Audio Classification, Natural Language Processing and Computer Vision. Follow me or get in touch with me if you have an interesting project to discuss
+### I am Yash, a Data Scientist with a strong background in programming with Python, solid skills in statistics, problem solving and working with various projects which include Data Mining, Machine Learning, Deep Learning, Audio Classification, Natural Language Processing, Computer Vision and Project Management. Follow me or get in touch with me if you have an interesting project to discuss
 
 Languages:
 
@@ -43,5 +43,4 @@ Softwares and Platforms:
 
 - 🌱 I’m currently learning Azure and going to take the DP-203 Certification Test soon.
 - 👯 I’m looking to collaborate on Kaggle Competitions
-- 🤔 I’m looking for help with Job referrals
 - 📫 How to reach me: send me an email at datasc.yash@gmail.com or follow me on instagram [music_by_yash](https://www.instagram.com/music_by_yash/?hl=en)
