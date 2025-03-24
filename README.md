@@ -39,8 +39,5 @@ Softwares and Platforms:
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=yash-td&count_private=true&theme=tokyonight&showicons=true)]()
 
 
-
-
-- 🌱 I’m currently learning Azure and going to take the DP-203 Certification Test soon.
-- 👯 I’m looking to collaborate on Kaggle Competitions
-- 📫 How to reach me: send me an email at datasc.yash@gmail.com or follow me on instagram [music_by_yash](https://www.instagram.com/music_by_yash/?hl=en)
+- 📫 How to reach me: send me an email at yashtdesai.19@gmail.com
+- Do check out my personal website to know more about me: yashdesai.co
