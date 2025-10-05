@@ -50,11 +50,9 @@ More projects pinned on my GitHub profile!
 
 ## GitHub Stats
 
-![Yash's GitHub stats](https://github-readme-stats.vercel.app/api?username=yash-td&show_icons=true&theme=radical&count_private=true)
-
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yash-td&layout=compact&theme=radical)
 
-![Commit Streak](https://github-readme-streak-stats.herokuapp.com/?user=yash-td&theme=radical)
+[![GitHub Streak](https://streak-stats.demolab.com?user=yash-td&theme=dark&exclude_days=Sun%2CSat)](https://git.io/streak-stats)
 
 ---
 
