@@ -34,25 +34,12 @@ I'm an AI Engineer and Data Scientist passionate about building impactful AI, an
 ### Domains  
 AI Engineering | Data Science | GenAI Solutions | Analytics | MLOps | Data Engineering
 
----
-
-## Projects & Portfolio
-
-### [Project Name 1](https://github.com/yash-td/project-name-1)  
-A brief description of this project highlighting key features and technologies used such as Python, Streamlit, AI, etc.
-
-### [Project Name 2](https://github.com/yash-td/project-name-2)  
-Brief summary focusing on the problem solved and tools applied (e.g., Flask, Power BI, Data Engineering).
-
-More projects pinned on my GitHub profile!
 
 ---
 
 ## GitHub Stats
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yash-td&layout=compact&theme=radical)
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=yash-td&theme=dark&exclude_days=Sun%2CSat)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=yash-td&theme=dark&hide_border=true&exclude_days=Sun%2CSat)](https://git.io/streak-stats)
 
 ---
 
