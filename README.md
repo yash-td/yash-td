@@ -1,40 +1,69 @@
-# Hey there 👋
+# Hi there, I'm Yash Desai 👋
 
-### I am Yash, a Data Scientist with a strong background in programming with Python, solid skills in statistics, problem solving and working with various projects which include Data Mining, Machine Learning, Deep Learning, Audio Classification, Natural Language Processing, Computer Vision and Project Management. Follow me or get in touch with me if you have an interesting project to discuss
+I'm an AI Engineer and Data Scientist passionate about building impactful AI, analytics, and GenAI solutions. I love turning data into decision-making power and creating smooth, scalable pipelines for MLOps and Data Engineering.
 
-Languages:
+---
 
-![image](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue) 
-![image](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) 
-![image](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
-![image](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) 
-![image](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) 
-![image](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) 
+## About Me
 
-Libraries:
+- 🔭 Currently working on AI-powered analytics solutions and GenAI projects  
+- 🌱 Continuously learning advanced MLOps and Data Engineering techniques  
+- 💬 Ask me about Python, Streamlit, Flask, Power Platform, and AI  
+- 🤝 Open to collaborations and exciting projects  
+- ⚡ Fun fact: I enjoy exploring data art and visualization  
 
-![image](https://img.shields.io/badge/Apache_Spark-FFFFFF?style=for-the-badge&logo=apachespark&logoColor=#E35A16)
-![image](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![image](https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![image](https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white)
-![image](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)
-![image](https://img.shields.io/badge/Keras-FF0000?style=for-the-badge&logo=keras&logoColor=white)
-![image](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![image](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white)
+---
 
-Cloud:
+## Skills
 
-![image](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
-![image](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
-![image](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
+### Languages & Frameworks  
+![Python](https://img.shields.io/badge/-Python-333333?style=flat-square&logo=python)  
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript)  
+![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5)  
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react)  
+![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?style=flat-square&logo=streamlit)  
+![Flask](https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=flask)  
 
-Softwares and Platforms:
+### Tools & Platforms  
+![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=flat-square&logo=powerbi)  
+![Power Apps](https://img.shields.io/badge/-Power%20Apps-742774?style=flat-square&logo=powerapps)  
+![Power Automate](https://img.shields.io/badge/-Power%20Automate-0984E3?style=flat-square&logo=microsoft-power-automate)  
+![Notion](https://img.shields.io/badge/-Notion-000000?style=flat-square&logo=notion)  
+![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code)  
 
-![image](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white)
-![image](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
-![image](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252)
-![image](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+### Domains  
+AI Engineering | Data Science | GenAI Solutions | Analytics | MLOps | Data Engineering
 
+---
 
-- 📫 How to reach me: send me an email at yashtdesai.19@gmail.com
-- Do check out my personal website to know more about me: yashdesai.co
+## Projects & Portfolio
+
+### [Project Name 1](https://github.com/yash-td/project-name-1)  
+A brief description of this project highlighting key features and technologies used such as Python, Streamlit, AI, etc.
+
+### [Project Name 2](https://github.com/yash-td/project-name-2)  
+Brief summary focusing on the problem solved and tools applied (e.g., Flask, Power BI, Data Engineering).
+
+More projects pinned on my GitHub profile!
+
+---
+
+## GitHub Stats
+
+![Yash's GitHub stats](https://github-readme-stats.vercel.app/api?username=yash-td&show_icons=true&theme=radical&count_private=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yash-td&layout=compact&theme=radical)
+
+![Commit Streak](https://github-readme-streak-stats.herokuapp.com/?user=yash-td&theme=radical)
+
+---
+
+## Contact & Connect
+
+- 🌐 [Personal Website](https://yashdesai.netlify.app)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/yash-desai)  
+- 📧 Email: example@email.com (or use LinkedIn contact)  
+
+---
+
+*Thanks for visiting my GitHub profile! Feel free to connect or collaborate.*
