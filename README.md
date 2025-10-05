@@ -36,8 +36,5 @@ Softwares and Platforms:
 ![image](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 
 
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=yash-td&count_private=true&theme=tokyonight&showicons=true)]()
-
-
 - 📫 How to reach me: send me an email at yashtdesai.19@gmail.com
 - Do check out my personal website to know more about me: yashdesai.co
