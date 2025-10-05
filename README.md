@@ -39,7 +39,7 @@ AI Engineering | Data Science | GenAI Solutions | Analytics | MLOps | Data Engin
 
 ## GitHub Stats
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=yash-td&theme=dark&hide_border=true&exclude_days=Sun%2CSat)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=yash-td)](https://git.io/streak-stats)
 
 ---
 
